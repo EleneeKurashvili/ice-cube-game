@@ -1,1 +1,1 @@
-Simple "Game". player is Ice cube and trying to avoid bumping to other obstacles.
+Simple "Game". Player is Ice Cube and trying to avoid bumping to other obstacles.
